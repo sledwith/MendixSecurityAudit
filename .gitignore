@@ -1,8 +1,0 @@
-node_modules/
-typings/
-script.js
-*nbproject
-.vscode/
-credentials
-MendixSecurityDocument.xlsx
-MendixSecurityDocument.docx
